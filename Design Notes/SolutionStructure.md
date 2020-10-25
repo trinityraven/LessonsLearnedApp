@@ -1,0 +1,36 @@
+# Solution Structure
+- Api
+    - Controllers
+- Api.Tests
+    - Controllers
+- Processing
+    - Processors
+    - Interfaces
+- Processing.Tests
+    - Processors
+- Persistence
+    - Repositories
+    - Interfaces
+- Persistence.Tests
+    - Repositories
+- DataAccess
+    - Accessors
+    - Interfaces
+- DataAccess.Tests
+    - Accessors
+- DataObjects
+    - DatabaseObjects
+    - ClientObjects
+    - Interfaces
+- DataObjects.Tests
+    - DatabaseObjects
+    - ClientObjects
+- WebUI
+    - Client
+    - Controllers
+- WebUI.Tests
+    - Controllers
+- iOSUI
+    - (Currently No Prior Reference)
+- iOSUI.Tests
+    - (Currently No Prior Reference)
