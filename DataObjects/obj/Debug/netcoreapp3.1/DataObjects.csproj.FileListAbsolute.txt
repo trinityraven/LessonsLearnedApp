@@ -1,0 +1,8 @@
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\bin\Debug\netcoreapp3.1\DataObjects.deps.json
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\bin\Debug\netcoreapp3.1\DataObjects.dll
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\obj\Debug\netcoreapp3.1\DataObjects.csprojAssemblyReference.cache
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\obj\Debug\netcoreapp3.1\DataObjects.AssemblyInfoInputs.cache
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\obj\Debug\netcoreapp3.1\DataObjects.AssemblyInfo.cs
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\bin\Debug\netcoreapp3.1\DataObjects.runtimeconfig.json
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\bin\Debug\netcoreapp3.1\DataObjects.runtimeconfig.dev.json
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\obj\Debug\netcoreapp3.1\DataObjects.genruntimeconfig.cache

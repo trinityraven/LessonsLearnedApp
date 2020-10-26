@@ -1,0 +1,8 @@
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
