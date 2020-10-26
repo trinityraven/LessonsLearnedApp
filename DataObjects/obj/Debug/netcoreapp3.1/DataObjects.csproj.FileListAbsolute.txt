@@ -6,3 +6,7 @@ C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\obj
 C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\bin\Debug\netcoreapp3.1\DataObjects.runtimeconfig.json
 C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\bin\Debug\netcoreapp3.1\DataObjects.runtimeconfig.dev.json
 C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\obj\Debug\netcoreapp3.1\DataObjects.genruntimeconfig.cache
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\bin\Debug\netcoreapp3.1\DataObjects.pdb
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\obj\Debug\netcoreapp3.1\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\obj\Debug\netcoreapp3.1\DataObjects.dll
+C:\Users\201sdonovan\source\repos\trinityraven\LessonsLearnedApp\DataObjects\obj\Debug\netcoreapp3.1\DataObjects.pdb
