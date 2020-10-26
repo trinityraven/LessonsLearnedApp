@@ -1,30 +1,45 @@
 # Solution Structure
+- Solution Items
 - Api
     - Controllers
+    - Migrations
+    - Models
+    - Views
 - Api.Tests
     - Controllers
+    - Mocks
+    - Models
 - Processing
     - Processors
     - Interfaces
 - Processing.Tests
+    - Mocks
     - Processors
 - Persistence
     - Repositories
     - Interfaces
 - Persistence.Tests
+    - Mocks
     - Repositories
 - DataAccess
     - Accessors
+    - Extensions
     - Interfaces
 - DataAccess.Tests
     - Accessors
+    - Extensions
+    - Mocks 
 - DataObjects
-    - DatabaseObjects
     - ClientObjects
+    - DatabaseObjects
+    - Enums
+    - Extensions
     - Interfaces
 - DataObjects.Tests
     - DatabaseObjects
     - ClientObjects
+    - Extensions
+    - Mocks
 - WebUI
     - Client
     - Controllers
