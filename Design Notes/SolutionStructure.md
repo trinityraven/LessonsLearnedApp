@@ -1,51 +1,52 @@
 # Solution Structure
-- Solution Items
-- Api
-    - Controllers
-    - Migrations
-    - Models
-    - Views
-- Api.Tests
-    - Controllers
-    - Mocks
-    - Models
-- Processing
-    - Processors
-    - Interfaces
-- Processing.Tests
-    - Mocks
-    - Processors
-- Persistence
-    - Repositories
-    - Interfaces
-- Persistence.Tests
-    - Mocks
-    - Repositories
-- DataAccess
-    - Accessors
-    - Extensions
-    - Interfaces
-- DataAccess.Tests
-    - Accessors
-    - Extensions
-    - Mocks 
-- DataObjects
-    - ClientObjects
-    - DatabaseObjects
-    - Enums
-    - Extensions
-    - Interfaces
-- DataObjects.Tests
-    - DatabaseObjects
-    - ClientObjects
-    - Extensions
-    - Mocks
-- WebUI
-    - Client
-    - Controllers
-- WebUI.Tests
-    - Controllers
-- iOSUI
+- [x] Solution Items
+- [x] Api
+    - [x] Controllers
+    - [x] Migrations
+    - [x] Models
+    - [x] Views
+- [x] Api.Tests
+    - [x] Controllers
+    - [x] Mocks
+    - [x] Models
+- [x] Processing
+    - [x] Processors
+    - [x] Interfaces
+- [x] Processing.Tests
+    - [x] Mocks
+    - [x] Processors
+- [x] Data (Name may change)
+    - [x] Repositories
+    - [x] Interfaces
+- [x] Data.Tests (Name dependent on related project)
+    - [x] Mocks
+    - [x] Repositories
+- [x] DataAccess
+    - [x] Accessors
+    - [x] Extensions
+    - [x] Interfaces
+- [x] DataAccess.Tests
+    - [x] Accessors
+    - [x] Extensions
+    - [x] Mocks 
+- [x] DataObjects
+    - [x] ClientObjects
+    - [x] DatabaseObjects
+    - [x] Enums
+    - [x] Extensions
+    - [x] Interfaces
+- [x] DataObjects.Tests
+    - [x] ClientObjects
+    - [x] DatabaseObjects
+    - [x] Extensions
+    - [x] Mocks
+- [x] WebUI
+    - [x] Client
+    - [x] Controllers
+- [x] WebUI.Tests
+    - [x] Controllers
+    - (Client Tests handled by Angular Project)
+- [ ] iOSUI
     - (Currently No Prior Reference)
-- iOSUI.Tests
+- [ ] iOSUI.Tests
     - (Currently No Prior Reference)
