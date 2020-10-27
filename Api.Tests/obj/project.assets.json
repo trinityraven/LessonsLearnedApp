@@ -9688,19 +9688,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/seandonovan/.nuget/packages/": {}
+    "/Users/sean/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/seandonovan/Projects/LessonsLearnedApp/Api.Tests/Api.Tests.csproj",
+      "projectUniqueName": "/Users/sean/Projects/LessonsLearnedApp/Api.Tests/Api.Tests.csproj",
       "projectName": "Api.Tests",
-      "projectPath": "/Users/seandonovan/Projects/LessonsLearnedApp/Api.Tests/Api.Tests.csproj",
-      "packagesPath": "/Users/seandonovan/.nuget/packages/",
-      "outputPath": "/Users/seandonovan/Projects/LessonsLearnedApp/Api.Tests/obj/",
+      "projectPath": "/Users/sean/Projects/LessonsLearnedApp/Api.Tests/Api.Tests.csproj",
+      "packagesPath": "/Users/sean/.nuget/packages/",
+      "outputPath": "/Users/sean/Projects/LessonsLearnedApp/Api.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/seandonovan/.config/NuGet/NuGet.Config"
+        "/Users/sean/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -9711,14 +9711,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/seandonovan/Projects/LessonsLearnedApp/API/API.csproj": {
-              "projectPath": "/Users/seandonovan/Projects/LessonsLearnedApp/API/API.csproj"
+            "/Users/sean/Projects/LessonsLearnedApp/API/API.csproj": {
+              "projectPath": "/Users/sean/Projects/LessonsLearnedApp/API/API.csproj"
             },
-            "/Users/seandonovan/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj": {
-              "projectPath": "/Users/seandonovan/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj"
+            "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj": {
+              "projectPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj"
             },
-            "/Users/seandonovan/Projects/LessonsLearnedApp/Processing/Processing.csproj": {
-              "projectPath": "/Users/seandonovan/Projects/LessonsLearnedApp/Processing/Processing.csproj"
+            "/Users/sean/Projects/LessonsLearnedApp/Processing/Processing.csproj": {
+              "projectPath": "/Users/sean/Projects/LessonsLearnedApp/Processing/Processing.csproj"
             }
           }
         }

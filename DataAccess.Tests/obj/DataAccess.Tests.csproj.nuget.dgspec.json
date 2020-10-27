@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/seandonovan/Projects/LessonsLearnedApp/DataAccess.Tests/DataAccess.Tests.csproj": {}
+    "/Users/sean/Projects/LessonsLearnedApp/DataAccess.Tests/DataAccess.Tests.csproj": {}
   },
   "projects": {
-    "/Users/seandonovan/Projects/LessonsLearnedApp/DataAccess.Tests/DataAccess.Tests.csproj": {
+    "/Users/sean/Projects/LessonsLearnedApp/DataAccess.Tests/DataAccess.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/seandonovan/Projects/LessonsLearnedApp/DataAccess.Tests/DataAccess.Tests.csproj",
+        "projectUniqueName": "/Users/sean/Projects/LessonsLearnedApp/DataAccess.Tests/DataAccess.Tests.csproj",
         "projectName": "DataAccess.Tests",
-        "projectPath": "/Users/seandonovan/Projects/LessonsLearnedApp/DataAccess.Tests/DataAccess.Tests.csproj",
-        "packagesPath": "/Users/seandonovan/.nuget/packages/",
-        "outputPath": "/Users/seandonovan/Projects/LessonsLearnedApp/DataAccess.Tests/obj/",
+        "projectPath": "/Users/sean/Projects/LessonsLearnedApp/DataAccess.Tests/DataAccess.Tests.csproj",
+        "packagesPath": "/Users/sean/.nuget/packages/",
+        "outputPath": "/Users/sean/Projects/LessonsLearnedApp/DataAccess.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/seandonovan/.config/NuGet/NuGet.Config"
+          "/Users/sean/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
