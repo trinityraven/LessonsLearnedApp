@@ -29,6 +29,11 @@ namespace API.Controllers
         {
         }
 
+        [HttpPatch("{id}")]
+        public void Patch(int id, [FromBody] string newValue)
+        {
+        }
+
         // DELETE api/<SampleController>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
