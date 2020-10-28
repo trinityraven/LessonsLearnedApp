@@ -6,5 +6,10 @@ namespace DataObjects.DatabaseObjects {
         public string Description { get; set; }
         public string URL { get; set; }
         public LinkType LinkType { get; set; }
+
+        public override string ToString()
+        {
+            return $"{Name} ({Description}) {LinkType}: {URL}";
+        }
     }
 }

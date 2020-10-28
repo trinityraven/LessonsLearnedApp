@@ -27,4 +27,7 @@
     <Folder Include="Mocks\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DataObjects\DataObjects.csproj" />
+  </ItemGroup>
 </Project>

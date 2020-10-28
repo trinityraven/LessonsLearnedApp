@@ -4,6 +4,227 @@
     "/Users/sean/Projects/LessonsLearnedApp/Processing.Tests/Processing.Tests.csproj": {}
   },
   "projects": {
+    "/Users/sean/Projects/LessonsLearnedApp/Data/Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sean/Projects/LessonsLearnedApp/Data/Data.csproj",
+        "projectName": "Data",
+        "projectPath": "/Users/sean/Projects/LessonsLearnedApp/Data/Data.csproj",
+        "packagesPath": "/Users/sean/.nuget/packages/",
+        "outputPath": "/Users/sean/Projects/LessonsLearnedApp/Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sean/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/sean/Projects/LessonsLearnedApp/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/sean/Projects/LessonsLearnedApp/DataAccess/DataAccess.csproj"
+              },
+              "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj": {
+                "projectPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sean/Projects/LessonsLearnedApp/DataAccess/DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sean/Projects/LessonsLearnedApp/DataAccess/DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "/Users/sean/Projects/LessonsLearnedApp/DataAccess/DataAccess.csproj",
+        "packagesPath": "/Users/sean/.nuget/packages/",
+        "outputPath": "/Users/sean/Projects/LessonsLearnedApp/DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sean/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Nito.AsyncEx.Context": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "System.Data.Odbc": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj",
+        "projectName": "DataObjects",
+        "projectPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj",
+        "packagesPath": "/Users/sean/.nuget/packages/",
+        "outputPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sean/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/sean/Projects/LessonsLearnedApp/Processing.Tests/Processing.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -24,7 +245,17 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/sean/Projects/LessonsLearnedApp/Data/Data.csproj": {
+                "projectPath": "/Users/sean/Projects/LessonsLearnedApp/Data/Data.csproj"
+              },
+              "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj": {
+                "projectPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj"
+              },
+              "/Users/sean/Projects/LessonsLearnedApp/Processing/Processing.csproj": {
+                "projectPath": "/Users/sean/Projects/LessonsLearnedApp/Processing/Processing.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -76,7 +307,64 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sean/Projects/LessonsLearnedApp/Processing/Processing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sean/Projects/LessonsLearnedApp/Processing/Processing.csproj",
+        "projectName": "Processing",
+        "projectPath": "/Users/sean/Projects/LessonsLearnedApp/Processing/Processing.csproj",
+        "packagesPath": "/Users/sean/.nuget/packages/",
+        "outputPath": "/Users/sean/Projects/LessonsLearnedApp/Processing/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sean/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/sean/Projects/LessonsLearnedApp/Data/Data.csproj": {
+                "projectPath": "/Users/sean/Projects/LessonsLearnedApp/Data/Data.csproj"
+              },
+              "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj": {
+                "projectPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
         }
       }
     }

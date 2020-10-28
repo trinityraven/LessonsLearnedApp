@@ -25,4 +25,9 @@
     <Folder Include="Processors\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Data\Data.csproj" />
+    <ProjectReference Include="..\DataObjects\DataObjects.csproj" />
+    <ProjectReference Include="..\Processing\Processing.csproj" />
+  </ItemGroup>
 </Project>
