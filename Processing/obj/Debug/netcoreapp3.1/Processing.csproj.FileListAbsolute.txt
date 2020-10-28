@@ -25,3 +25,10 @@ C:/Users/201sdonovan/source/repos/trinityraven/LessonsLearnedApp/Processing/obj/
 /Users/sean/Projects/LessonsLearnedApp/Processing/obj/Debug/netcoreapp3.1/Processing.csproj.CoreCompileInputs.cache
 /Users/sean/Projects/LessonsLearnedApp/Processing/obj/Debug/netcoreapp3.1/Processing.dll
 /Users/sean/Projects/LessonsLearnedApp/Processing/obj/Debug/netcoreapp3.1/Processing.pdb
+/Users/sean/Projects/LessonsLearnedApp/Processing/bin/Debug/netcoreapp3.1/Data.dll
+/Users/sean/Projects/LessonsLearnedApp/Processing/bin/Debug/netcoreapp3.1/DataAccess.dll
+/Users/sean/Projects/LessonsLearnedApp/Processing/bin/Debug/netcoreapp3.1/DataObjects.dll
+/Users/sean/Projects/LessonsLearnedApp/Processing/bin/Debug/netcoreapp3.1/DataObjects.pdb
+/Users/sean/Projects/LessonsLearnedApp/Processing/bin/Debug/netcoreapp3.1/Data.pdb
+/Users/sean/Projects/LessonsLearnedApp/Processing/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/Users/sean/Projects/LessonsLearnedApp/Processing/obj/Debug/netcoreapp3.1/Processing.csproj.CopyComplete

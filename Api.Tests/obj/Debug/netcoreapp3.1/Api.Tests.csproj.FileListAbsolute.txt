@@ -398,3 +398,15 @@ C:/Users/201sdonovan/source/repos/trinityraven/LessonsLearnedApp/Api.Tests/obj/D
 /Users/sean/Projects/LessonsLearnedApp/Api.Tests/obj/Debug/netcoreapp3.1/Api.Tests.dll
 /Users/sean/Projects/LessonsLearnedApp/Api.Tests/obj/Debug/netcoreapp3.1/Api.Tests.pdb
 /Users/sean/Projects/LessonsLearnedApp/Api.Tests/obj/Debug/netcoreapp3.1/Api.Tests.genruntimeconfig.cache
+/Users/sean/Projects/LessonsLearnedApp/Api.Tests/bin/Debug/netcoreapp3.1/Nito.AsyncEx.Context.dll
+/Users/sean/Projects/LessonsLearnedApp/Api.Tests/bin/Debug/netcoreapp3.1/Nito.AsyncEx.Tasks.dll
+/Users/sean/Projects/LessonsLearnedApp/Api.Tests/bin/Debug/netcoreapp3.1/Nito.Disposables.dll
+/Users/sean/Projects/LessonsLearnedApp/Api.Tests/bin/Debug/netcoreapp3.1/System.Data.Odbc.dll
+/Users/sean/Projects/LessonsLearnedApp/Api.Tests/bin/Debug/netcoreapp3.1/runtimes/freebsd/lib/netcoreapp2.0/System.Data.Odbc.dll
+/Users/sean/Projects/LessonsLearnedApp/Api.Tests/bin/Debug/netcoreapp3.1/runtimes/linux/lib/netcoreapp2.0/System.Data.Odbc.dll
+/Users/sean/Projects/LessonsLearnedApp/Api.Tests/bin/Debug/netcoreapp3.1/runtimes/osx/lib/netcoreapp2.0/System.Data.Odbc.dll
+/Users/sean/Projects/LessonsLearnedApp/Api.Tests/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Data.Odbc.dll
+/Users/sean/Projects/LessonsLearnedApp/Api.Tests/bin/Debug/netcoreapp3.1/Data.dll
+/Users/sean/Projects/LessonsLearnedApp/Api.Tests/bin/Debug/netcoreapp3.1/DataAccess.dll
+/Users/sean/Projects/LessonsLearnedApp/Api.Tests/bin/Debug/netcoreapp3.1/Data.pdb
+/Users/sean/Projects/LessonsLearnedApp/Api.Tests/bin/Debug/netcoreapp3.1/DataAccess.pdb
