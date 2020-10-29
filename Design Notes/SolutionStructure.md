@@ -46,6 +46,10 @@
 - [x] WebUI.Tests
     - [x] Controllers
     - (Client Tests handled by Angular Project)
+- [ ] WASM
+    - (TBD)
+- [ ] WASM.Tests
+    - (TBD)
 - [ ] iOSUI
     - (Currently No Prior Reference)
 - [ ] iOSUI.Tests
