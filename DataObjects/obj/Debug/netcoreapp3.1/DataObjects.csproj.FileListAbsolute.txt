@@ -22,3 +22,15 @@ C:/Users/201sdonovan/source/repos/trinityraven/LessonsLearnedApp/DataObjects/obj
 /Users/seandonovan/Projects/LessonsLearnedApp/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.dll
 /Users/seandonovan/Projects/LessonsLearnedApp/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.pdb
 /Users/seandonovan/Projects/LessonsLearnedApp/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.genruntimeconfig.cache
+/Users/sean/Projects/LessonsLearnedApp/DataObjects/bin/Debug/netcoreapp3.1/DataObjects.deps.json
+/Users/sean/Projects/LessonsLearnedApp/DataObjects/bin/Debug/netcoreapp3.1/DataObjects.runtimeconfig.json
+/Users/sean/Projects/LessonsLearnedApp/DataObjects/bin/Debug/netcoreapp3.1/DataObjects.runtimeconfig.dev.json
+/Users/sean/Projects/LessonsLearnedApp/DataObjects/bin/Debug/netcoreapp3.1/DataObjects.dll
+/Users/sean/Projects/LessonsLearnedApp/DataObjects/bin/Debug/netcoreapp3.1/DataObjects.pdb
+/Users/sean/Projects/LessonsLearnedApp/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.csprojAssemblyReference.cache
+/Users/sean/Projects/LessonsLearnedApp/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.AssemblyInfoInputs.cache
+/Users/sean/Projects/LessonsLearnedApp/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.AssemblyInfo.cs
+/Users/sean/Projects/LessonsLearnedApp/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.csproj.CoreCompileInputs.cache
+/Users/sean/Projects/LessonsLearnedApp/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.dll
+/Users/sean/Projects/LessonsLearnedApp/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.pdb
+/Users/sean/Projects/LessonsLearnedApp/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.genruntimeconfig.cache

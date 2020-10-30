@@ -24,4 +24,8 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WebUI\WebUI.csproj" />
+    <ProjectReference Include="..\DataObjects\DataObjects.csproj" />
+  </ItemGroup>
 </Project>

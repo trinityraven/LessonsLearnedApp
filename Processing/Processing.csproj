@@ -9,4 +9,8 @@
     <Folder Include="Processors\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DataObjects\DataObjects.csproj" />
+    <ProjectReference Include="..\Data\Data.csproj" />
+  </ItemGroup>
 </Project>
