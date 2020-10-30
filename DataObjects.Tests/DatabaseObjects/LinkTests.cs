@@ -1,5 +1,4 @@
-﻿using System;
-using DataObjects.DatabaseObjects;
+﻿using DataObjects.DatabaseObjects;
 using DataObjects.Enums;
 using Xunit;
 

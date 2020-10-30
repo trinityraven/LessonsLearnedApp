@@ -14,7 +14,7 @@ namespace DataObjects.Extensions
 
             if (info?.CustomAttributes.Any() == true)
             {
-                var nameAttr = info.GetCustomAttribute<DisplayAttribute>();
+                DisplayAttribute nameAttr = info.GetCustomAttribute<DisplayAttribute>();
                 return nameAttr?.Name ?? value.ToString();
             }
             else

@@ -1,5 +1,7 @@
-namespace DataObjects.Enums {
-    public enum LinkType {
+namespace DataObjects.Enums
+{
+    public enum LinkType
+    {
         Web,
         Telephone,
         Email
