@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sean/Projects/LessonsLearnedApp/WebUI.Tests/WebUI.Tests.csproj": {}
+    "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\WebUI.Tests\\WebUI.Tests.csproj": {}
   },
   "projects": {
-    "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj": {
+    "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj",
+        "projectUniqueName": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj",
         "projectName": "DataObjects",
-        "projectPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj",
-        "packagesPath": "/Users/sean/.nuget/packages/",
-        "outputPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/obj/",
+        "projectPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj",
+        "packagesPath": "C:\\Users\\201sdonovan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/sean/.config/NuGet/NuGet.Config"
+          "C:\\Users\\201sdonovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +67,7 @@
             },
             "Microsoft.NETCore.App": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[2.2.8, )"
             }
           },
           "imports": [
@@ -80,36 +85,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/sean/Projects/LessonsLearnedApp/WebUI.Tests/WebUI.Tests.csproj": {
+    "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\WebUI.Tests\\WebUI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sean/Projects/LessonsLearnedApp/WebUI.Tests/WebUI.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\WebUI.Tests\\WebUI.Tests.csproj",
         "projectName": "WebUI.Tests",
-        "projectPath": "/Users/sean/Projects/LessonsLearnedApp/WebUI.Tests/WebUI.Tests.csproj",
-        "packagesPath": "/Users/sean/.nuget/packages/",
-        "outputPath": "/Users/sean/Projects/LessonsLearnedApp/WebUI.Tests/obj/",
+        "projectPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\WebUI.Tests\\WebUI.Tests.csproj",
+        "packagesPath": "C:\\Users\\201sdonovan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\WebUI.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/sean/.config/NuGet/NuGet.Config"
+          "C:\\Users\\201sdonovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj": {
-                "projectPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj"
+              "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj": {
+                "projectPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj"
               },
-              "/Users/sean/Projects/LessonsLearnedApp/WebUI/WebUI.csproj": {
-                "projectPath": "/Users/sean/Projects/LessonsLearnedApp/WebUI/WebUI.csproj"
+              "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\WebUI\\WebUI.csproj": {
+                "projectPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\WebUI\\WebUI.csproj"
               }
             }
           }
@@ -159,37 +169,45 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/sean/Projects/LessonsLearnedApp/WebUI/WebUI.csproj": {
+    "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\WebUI\\WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sean/Projects/LessonsLearnedApp/WebUI/WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\WebUI\\WebUI.csproj",
         "projectName": "WebUI",
-        "projectPath": "/Users/sean/Projects/LessonsLearnedApp/WebUI/WebUI.csproj",
-        "packagesPath": "/Users/sean/.nuget/packages/",
-        "outputPath": "/Users/sean/Projects/LessonsLearnedApp/WebUI/obj/",
+        "projectPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\WebUI\\WebUI.csproj",
+        "packagesPath": "C:\\Users\\201sdonovan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\WebUI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/sean/.config/NuGet/NuGet.Config"
+          "C:\\Users\\201sdonovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj": {
-                "projectPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj"
+              "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj": {
+                "projectPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj"
               }
             }
           }
@@ -221,7 +239,7 @@
             },
             "Microsoft.NETCore.App": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[2.2.8, )"
             },
             "Microsoft.TypeScript.MSBuild": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -256,7 +274,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

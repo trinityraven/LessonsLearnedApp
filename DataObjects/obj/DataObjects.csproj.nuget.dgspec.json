@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj": {}
+    "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj": {}
   },
   "projects": {
-    "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj": {
+    "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj",
+        "projectUniqueName": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj",
         "projectName": "DataObjects",
-        "projectPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj",
-        "packagesPath": "/Users/sean/.nuget/packages/",
-        "outputPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/obj/",
+        "projectPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj",
+        "packagesPath": "C:\\Users\\201sdonovan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/sean/.config/NuGet/NuGet.Config"
+          "C:\\Users\\201sdonovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +67,7 @@
             },
             "Microsoft.NETCore.App": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[2.2.8, )"
             }
           },
           "imports": [
@@ -80,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
