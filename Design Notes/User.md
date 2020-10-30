@@ -1,3 +1,3 @@
 # A **USER** has:
-- A Username
-- A Name (property)
+- [ ] A Username
+- [ ] A Name (property)
