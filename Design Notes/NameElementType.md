@@ -1,10 +1,10 @@
 # Possible **NameElementType** values:
-- [ ] FamilyName
-- [ ] FirstName
-- [ ] GenerationName
-- [ ] GivenName
-- [ ] LastName
-- [ ] MiddleName
-- [ ] Prefix
-- [ ] Suffix
-- [ ] Title
+- [x] FamilyName
+- [x] FirstName
+- [x] GenerationName
+- [x] GivenName
+- [x] LastName
+- [x] MiddleName
+- [x] Prefix
+- [x] Suffix
+- [x] Title

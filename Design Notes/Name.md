@@ -1,5 +1,5 @@
 # A **NAME** has:
-- [ ] List<NameElement> 
-- [ ] Effective From Date
-- [ ] A Nullable Effective To Date
-- [ ] A NameElement Pattern 
+- [x] List<NameElement> 
+- [x] Effective From Date
+- [x] A Nullable Effective To Date
+- [x] A NameElement Pattern 
