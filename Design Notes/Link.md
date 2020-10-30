@@ -1,5 +1,5 @@
 # A **LINK** has:
-- A URL
-- A Name
-- A Description
-- A LinkType
+- [x] A URL
+- [x] A Name
+- [x] A Description
+- [x] A LinkType

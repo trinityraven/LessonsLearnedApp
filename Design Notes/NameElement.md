@@ -1,4 +1,4 @@
 # A **NameElement** has:
-- An NameElementType (ENUM)
-- A value
-- An index value
+- [ ] An NameElementType (ENUM)
+- [ ] A value
+- [ ] An index value
