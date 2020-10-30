@@ -16,6 +16,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataObjects.Tests", "DataObjects.Tests\DataObjects.Tests.csproj", "{C6CC29CA-426D-411A-897A-054C8CE76FD7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C7E7A1CB-0876-43C5-855A-0758D162E214}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{98DFB420-7CA6-42A5-B534-2CF4C17D1029}"
 EndProject
