@@ -1,37 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects.Tests\\DataObjects.Tests.csproj": {}
+    "/Users/sean/Projects/LessonsLearnedApp/DataObjects.Tests/DataObjects.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects.Tests\\DataObjects.Tests.csproj": {
+    "/Users/sean/Projects/LessonsLearnedApp/DataObjects.Tests/DataObjects.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects.Tests\\DataObjects.Tests.csproj",
+        "projectUniqueName": "/Users/sean/Projects/LessonsLearnedApp/DataObjects.Tests/DataObjects.Tests.csproj",
         "projectName": "DataObjects.Tests",
-        "projectPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects.Tests\\DataObjects.Tests.csproj",
-        "packagesPath": "C:\\Users\\201sdonovan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects.Tests\\obj\\",
+        "projectPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects.Tests/DataObjects.Tests.csproj",
+        "packagesPath": "/Users/sean/.nuget/packages/",
+        "outputPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects.Tests/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\201sdonovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/sean/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj": {
-                "projectPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj"
+              "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj": {
+                "projectPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj"
               }
             }
           }
@@ -85,31 +80,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj": {
+    "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj",
+        "projectUniqueName": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj",
         "projectName": "DataObjects",
-        "projectPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\DataObjects.csproj",
-        "packagesPath": "C:\\Users\\201sdonovan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\201sdonovan\\source\\repos\\trinityraven\\LessonsLearnedApp\\DataObjects\\obj\\",
+        "projectPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/DataObjects.csproj",
+        "packagesPath": "/Users/sean/.nuget/packages/",
+        "outputPath": "/Users/sean/Projects/LessonsLearnedApp/DataObjects/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\201sdonovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/sean/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -170,7 +160,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
         }
       }
     }
