@@ -1977,7 +1977,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "3.1.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.9",
-          "Microsoft.Extensions.Configuration.Abstractions": "3.1.9"
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.9",
+          "Microsoft.NETCore.App": "2.2.8"
         },
         "runtime": {
           "DataObjects.dll": {}
