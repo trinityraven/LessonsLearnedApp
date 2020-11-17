@@ -1,4 +1,13 @@
-﻿# Compiled source #
+﻿# Added by Sean
+*.cache
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+
+# Compiled source #
 ###################
 *.com
 *.class
