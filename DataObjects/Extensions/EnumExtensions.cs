@@ -1,7 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Reflection;
 using System.Linq;
+using System.Reflection;
 
 namespace DataObjects.Extensions
 {
@@ -21,6 +22,18 @@ namespace DataObjects.Extensions
             {
                 return value.ToString();
             }
+        }
+
+        public static Dictionary<string, string> GetValueDictionary(this Enum group)
+        {
+            Type groupType = group.GetType();
+
+            var result = new Dictionary<string, string>();
+            var keys = Enum.GetValues(groupType).AsQueryable().Cast<int>().ToList();
+
+            keys.ForEach(k => result.Add(k.ToString(), Enum.GetName(groupType, k)));
+
+            return result;
         }
     }
 }

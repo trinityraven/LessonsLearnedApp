@@ -15,6 +15,11 @@ namespace API.Controllers
 
         [HttpGet("link-types")]
         [ProducesResponseType(StatusCodes.Status200OK)]
-        public ActionResult<Dictionary<int, string>> GetLinkTypesApi() => Ok(processor.GetLinkTypes());
+        public ActionResult<Dictionary<string, string>> GetLinkTypesApi()
+        {
+            Dictionary<string, string> result = processor.GetLinkTypes();
+
+            return Ok(result);
+        }
     }
 }

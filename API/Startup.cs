@@ -4,6 +4,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using Processing.Interfaces;
+using Processing.Processors;
 
 namespace API
 {
@@ -21,6 +23,7 @@ namespace API
             // Add DbContexts Here
 
             // Add Singletons Here, Prefer `services.AddScoped<..., ...>()`
+            services.AddScoped<ILinkProcessor, LinkProcessor>();
 
             services.AddCors();
 

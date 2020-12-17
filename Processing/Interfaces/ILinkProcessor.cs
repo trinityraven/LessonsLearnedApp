@@ -4,6 +4,6 @@ namespace Processing.Interfaces
 {
     public interface ILinkProcessor
     {
-        Dictionary<int, string> GetLinkTypes();
+        Dictionary<string, string> GetLinkTypes();
     }
 }
